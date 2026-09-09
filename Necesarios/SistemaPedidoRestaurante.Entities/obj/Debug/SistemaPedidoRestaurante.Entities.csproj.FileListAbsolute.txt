@@ -1,0 +1,6 @@
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\bin\Debug\SistemaPedidoRestaurante.Entities.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\bin\Debug\SistemaPedidoRestaurante.Entities.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\obj\Debug\SistemaPedidoRestaurante.Entities.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\obj\Debug\SistemaPedidoRestaurante.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\obj\Debug\SistemaPedidoRestaurante.Entities.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.Entities\obj\Debug\SistemaPedidoRestaurante.Entities.pdb

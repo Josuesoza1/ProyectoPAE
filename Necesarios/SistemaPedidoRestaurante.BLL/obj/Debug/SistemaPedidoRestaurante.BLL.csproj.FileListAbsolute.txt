@@ -1,0 +1,13 @@
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.BLL.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.BLL.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.DAL.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.Entities.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.Validaciones.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.DAL.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.Entities.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\bin\Debug\SistemaPedidoRestaurante.Validaciones.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\obj\Debug\SistemaPedidoRestaurante.BLL.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\obj\Debug\SistemaPedidoRestaurante.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\obj\Debug\SistemaP.2B21AF52.Up2Date
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\obj\Debug\SistemaPedidoRestaurante.BLL.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.BLL\obj\Debug\SistemaPedidoRestaurante.BLL.pdb

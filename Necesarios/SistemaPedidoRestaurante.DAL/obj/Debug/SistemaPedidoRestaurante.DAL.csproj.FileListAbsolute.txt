@@ -1,0 +1,9 @@
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\bin\Debug\SistemaPedidoRestaurante.DAL.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\bin\Debug\SistemaPedidoRestaurante.DAL.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\bin\Debug\SistemaPedidoRestaurante.Entities.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\bin\Debug\SistemaPedidoRestaurante.Entities.pdb
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\obj\Debug\SistemaPedidoRestaurante.DAL.csproj.AssemblyReference.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\obj\Debug\SistemaPedidoRestaurante.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\obj\Debug\SistemaP.B2FD7C1D.Up2Date
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\obj\Debug\SistemaPedidoRestaurante.DAL.dll
+C:\Users\Josue\source\repos\SistemaPedidoRestaurante.DAL\obj\Debug\SistemaPedidoRestaurante.DAL.pdb
